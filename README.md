@@ -39,6 +39,11 @@ To use the ```timeline-data-generator.py``` script:
 
 ![winner](http://i0.kym-cdn.com/entries/icons/original/000/012/982/post-19715-Brent-Rambo-gif-thumbs-up-imgu-L3yP.gif)
 
+### But what about…
+
+I know what you're thinking. The KPCC timeline has a [config file](https://github.com/SCPR/static-projects/blob/master/timelines/christopher-dorner-timeline/timeline-config.js) that allows you to specify whether to use a Google spreadsheet or a [flat json file](https://github.com/SCPR/static-projects/blob/master/timelines/christopher-dorner-timeline/timeline-data.json) to power a timeline. So why don't we have a flat json file option for this script?
+
+My initial thinking is this is a quick way to get information that can be used in a timeline, not a method of creating a fully-baked, ready-to-roll-and-fit-for-the-public timeline. That said, it could be done and it's something I may work on as time permits.
 
 ### Links & Resources
 
