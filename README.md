@@ -19,7 +19,7 @@ To use the ```timeline-data-generator.py``` script:
     * **Enter the search term for the KPCC API**: Gov. Jerry Brown
     * **Enter the number of results you'd like from the KPCC API**: 15
 
-* A ```timeline-data-file.csv``` will be output to the directory. The csv file contains the following columns:
+* A ```gov-jerry-brown.csv``` will be output to the directory. The csv file contains the following columns:
 
     * ```title```: This is the headline of the piece of content.
     * ```date```: This is the date the item took place and is required for sorting purposes. The end user will not see this value. Please note that the date column should contain data in a **Month Day, Year** format. -- **April 25, 2012** so the JavaScript can parse it correctly. If you don't know the date something occurred, we can fudge it for sorting purposes by just entering the first or second day of a month.
